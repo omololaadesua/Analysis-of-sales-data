@@ -24,7 +24,7 @@ Some of the tsaks performed in this phase:
 
 ### Project Goal and Questions
 
-#### The goal of any company is to maximize profit, consequently, the project aims ton answer the following questions:
+#### The goal of any company is to maximize profit, consequently, the project aims to answer the following questions:
 
 - What is the most profitable product category
 - What is the most profiable region
@@ -32,6 +32,8 @@ Some of the tsaks performed in this phase:
 - -What is the impact of discount on quantity purchased and profit
 
 ### Exploratory Data Analysis
+
+#### EDA was carried out on the dataset to answer above questions 
 
  
 
