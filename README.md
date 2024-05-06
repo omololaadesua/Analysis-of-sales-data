@@ -33,9 +33,12 @@ Some of the tsaks performed in this phase:
 
 ### Exploratory Data Analysis
 
-#### EDA was carried out on the dataset to answer above questions 
+#### EDA was carried out on the dataset to answer above questions and techniques used included:
 
-### Data Analysis
+- Group the data using .groupby() function and applying .agg() method
+- Change data format from long to wide using pd.pivot_table()
+
+
  
 
 
