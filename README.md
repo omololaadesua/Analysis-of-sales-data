@@ -9,7 +9,17 @@ This project aims to provide insight into the sales/profit performance of a comp
 The primary data set used for this "orders.csv" containing the company's order transactions between 2018 and 2021
 
 ### Tools used
+
 - Python specicifically pandas module was used to clean and analyse the data
 - The web application;Jupyter notebook was used to create and run the Python code
+
+### Data Cleaning/Preparation
+
+Some of the tsaks performed in this phase:
+
+- Load and inspect data
+- Rename column
+- Change column data type
+- Drop unwanted columns
 
 
