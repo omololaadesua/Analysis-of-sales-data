@@ -1,2 +1,9 @@
-## Analysis-of-sales-data
-Analyse sales data of a company using their order data
+## Sales Analysis
+ 
+### Project Overview
+
+This project aims to provide insight into the sales/profit performance of a company over a period between 2018 and 2021. By analysing these metrics for different dimensions, we aim to gain a depper undertsanding of the company's performance, identify trends and make data-driven recommendations.
+
+### Data Source
+
+The primary data set used for this "orders.csv" containing the company's order transactions between 2018 and 2021
