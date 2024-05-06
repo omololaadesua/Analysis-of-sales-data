@@ -22,4 +22,17 @@ Some of the tsaks performed in this phase:
 - Change column data type
 - Drop unwanted columns
 
+### Project Goal and Questions
+
+#### The goal of any company is to maximize profit, consequently, the project aims ton answer the following questions:
+
+- What is the most profitable product category
+- What is the most profiable region
+- What is the relationship between sales value and profit
+- -What is the impact of discount on quantity purchased and profit
+
+### Exploratory Data Analysis
+
+ 
+
 
