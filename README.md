@@ -37,6 +37,7 @@ Some of the tsaks performed in this phase:
 
 - Group the data using .groupby() function and applying .agg() method
 - Change data format from long to wide using pd.pivot_table()
+- use of values_counts() method
 
 
  
