@@ -28,8 +28,7 @@ Some of the tsaks performed in this phase:
 
 - What is the most profitable product category
 - What is the most profiable region
-- What is the relationship between sales value and profit
-- -What is the impact of discount on quantity purchased and profit
+- What is the impact of discount on quantity purchased and profit
 
 ### Exploratory Data Analysis
 
@@ -38,7 +37,16 @@ Some of the tsaks performed in this phase:
 - Group the data using .groupby() function and applying .agg() method
 - Change data format from long to wide using pd.pivot_table()
 - use of value_counts() method
-- pct_change() function
+  
+
+### Results and findings
+- All product category recorded profit in the review period (2018 - 2021) although no single category is the most profitable YOY and furniture is the least profitable of the categories
+- Technology is the most profitable category cummulatively and edges out office suplies only slightly
+- Although profit margin fluctuates, all regions still recorded profit for every year in the dataset
+- The least profitable region over entire period is the central region and the most profitable is the west
+- Although discounts seem to increase sales, profit is impacted negatively
+
+### Recommendation
 
 
  
