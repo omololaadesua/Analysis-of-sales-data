@@ -47,7 +47,9 @@ Some of the tsaks performed in this phase:
 - Although discounts seem to increase sales, profit is impacted negatively
 
 ### Recommendation
-
+Based on the analysis, I recommend the following actions
+- removing or reducing discounts for furniture and office supplies categories as these categories record losses when discounts are introduced
+- similarly, due to impact of discounts on profit for all regions, I recommend a reduction/removal of discounts for all regions especially those running at a loss(central, south and east) 
 
  
 
